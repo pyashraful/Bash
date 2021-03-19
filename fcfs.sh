@@ -69,7 +69,7 @@ for(( i=0; i<${#pro[@]}; i++ ))
 do
   echo ${tat[$i]}
 done
-
+# p
 echo "========CT=========="
 for(( i=0; i<${#pro[@]}; i++ ))
 do
