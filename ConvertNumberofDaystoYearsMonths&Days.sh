@@ -1,5 +1,5 @@
 #!/bin/bash
-#Convert Number of Days to Years, Months & Days
+
 echo "Enter number"
 read int
 
