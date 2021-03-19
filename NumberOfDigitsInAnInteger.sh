@@ -1,4 +1,6 @@
 #!/bin/bash
+#Number of Digits in an Integer
+
 echo "Enter number"
 read int
 len=${#int}
